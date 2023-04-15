@@ -10,10 +10,6 @@ To run this code, you need to install the following libraries:
 - scikit-learn
 - nltk
 
-```python
-pip install numpy pandas scikit-learn nltk
-```
-
 ## Usage
 
 The code reads movie reviews from a CSV file and performs the following tasks:
